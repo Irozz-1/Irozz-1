@@ -28,22 +28,15 @@ Faço sites com personalidade, bots para comunidades e experiências que mistura
   <img src="https://skillicons.dev/icons?i=js,nodejs,python,html,css,tailwind,git,github,docker,unity&theme=dark&perline=10" alt="JavaScript, Node.js, Python, HTML, CSS, Tailwind CSS, Git, GitHub, Docker e Unity" />
 </div>
 
-### `> ls ./projetos`
+### `> ./estou-com-sorte`
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 irozz.space</h3>
-      <p>Meu universo pessoal na web: vídeos, links, setup e perfil VRChat em uma interface retrô responsiva.</p>
-      <a href="https://irozz.space/">acessar transmissão →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎵 Stoat Music Bot</h3>
-      <p>Bot de música em Python para canais de voz do Stoat, com fila, pause, skip e outros comandos.</p>
-      <a href="https://github.com/Irozz-1/stoat-music-bot">ver repositório →</a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://irozz.space/sorte?gravity=1">
+    <img width="100%" src="./assets/lucky.svg" alt="Eu Estou com Sorte — quebrar a gravidade deste perfil" />
+  </a>
+  <br />
+  <sub>Uma cópia deste perfil. Só que a gravidade está com defeito.</sub>
+</div>
 
 ### `> github --stats`
 
