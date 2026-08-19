@@ -51,6 +51,18 @@ Faço sites com personalidade, bots para comunidades e experiências que mistura
   <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Irozz-1&theme=github_dark" alt="Resumo de contribuições de Irozz no GitHub" />
 </div>
 
+### `> snake --feed`
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Irozz-1/Irozz-1/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Irozz-1/Irozz-1/output/github-snake.svg" />
+    <img width="100%" alt="Cobrinha comendo o gráfico de contribuições de Irozz" src="https://raw.githubusercontent.com/Irozz-1/Irozz-1/output/github-snake.svg" />
+  </picture>
+  <br />
+  <sub>Cada quadradinho foi uma ideia que virou commit.</sub>
+</div>
+
 ### `> connect --open`
 
 <div align="center">
